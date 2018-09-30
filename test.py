@@ -1,6 +1,5 @@
-x = 5
-x = x - 1
-y = 4
+x = 3
+x = x + 1
 if x == 1:
     # indented four spaces
     print("x is 1.")
